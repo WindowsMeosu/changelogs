@@ -1,4 +1,12 @@
-<h1>peppypedia</h1>
+## site ver 0.0.2
+#### 10/09/2022
+* added [changelogs](https://gitmilotilo.github.io/changelogs) so you can read this... which you are doing right now? right..?
+* added links to current projects on [site](https://gitmilotilo.github.io/)
+* some other stuff
+## site ver 0.0.1
+#### 10/09/2022
+* publish site
+* added little/slight information about current projects (meerkat and peppypedia)
 ## peppypedia ver 0.2.6.4 (0.2.6)
 #### Open Beta
 #### 10/09/2022
@@ -24,7 +32,6 @@
 * added changelog.md (your reading it)
 * auto-assign.yml added in .github and .github/workflows
 * added templates for issues (.github/ISSUE_TEMPLATE)
-<h1>osu!meerkat</h1>
 ## osu!meerkat ver 0.1.0.2
 #### Beta
 #### 10/07/2022
