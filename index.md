@@ -2,7 +2,7 @@
 <p>V.0.2.6</p>
  <p>developers:</p>
    <p>MiloTilo</p>
-    <p>qwrmolly</p>
+   <p>qwrmolly</p>
 <h1>osu!meerkat</h1>
 <p>V.0.1.0</p>
 <p>developers:</p>
