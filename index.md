@@ -1,3 +1,6 @@
+## site ver 0.0.3
+#### 10/10/2022
+* fixed link to peppypedia redirecting to changelogs.
 ## site ver 0.0.2
 #### 10/09/2022
 * added [changelogs](https://gitmilotilo.github.io/changelogs) so you can read this... which you are doing right now? right..?
@@ -7,6 +10,10 @@
 #### 10/09/2022
 * publish site
 * added little/slight information about current projects (meerkat and peppypedia)
+## peppypedia ver 0.2.6.5 (0.2.6)
+#### Open Beta
+#### 10/10/2022
+* added 404.html for 404 errors
 ## peppypedia ver 0.2.6.4 (0.2.6)
 #### Open Beta
 #### 10/09/2022
