@@ -1,6 +1,7 @@
 ## site ver 0.0.4
 #### 10/12/2022
 readme.md is now redirects when someone clicks on "About" on peppypedia
+^ actually fixed it for real
 ## site ver 0.0.3
 #### 10/10/2022
 * fixed link to peppypedia redirecting to changelogs.
@@ -17,6 +18,7 @@ readme.md is now redirects when someone clicks on "About" on peppypedia
 #### Open Beta
 #### 10/12/2022
 * readme.md is now redirects when clicking on "About"
+* ^ fixed for real now
 * IRC server now has peppybot (I'll register soon) and KittenBot (registered + hosted on a private server)
 * fix some mistakes in the posts
 ## peppypedia ver 0.2.6.5 (0.2.6)
