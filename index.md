@@ -1,3 +1,6 @@
+## site ver 0.0.4
+#### 10/12/2022
+readme.md is now redirects when someone clicks on "About" on peppypedia
 ## site ver 0.0.3
 #### 10/10/2022
 * fixed link to peppypedia redirecting to changelogs.
@@ -10,6 +13,12 @@
 #### 10/09/2022
 * publish site
 * added little/slight information about current projects (meerkat and peppypedia)
+* ## peppypedia ver 0.2.6.6 (0.2.6)
+#### Open Beta
+#### 10/12/2022
+* readme.md is now redirects when clicking on "About"
+* IRC server now has peppybot (I'll register soon) and KittenBot (registered + hosted on a private server)
+* fix some mistakes in the posts
 ## peppypedia ver 0.2.6.5 (0.2.6)
 #### Open Beta
 #### 10/10/2022
@@ -39,6 +48,10 @@
 * added changelog.md (your reading it)
 * auto-assign.yml added in .github and .github/workflows
 * added templates for issues (.github/ISSUE_TEMPLATE)
+## osu!meerkat ver 0.1.0.3
+#### Beta
+#### 10/12/2022
+* added IRC commands (not available to public, still testing)
 ## osu!meerkat ver 0.1.0.2
 #### Beta
 #### 10/07/2022
