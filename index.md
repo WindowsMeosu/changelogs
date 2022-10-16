@@ -14,7 +14,12 @@
 #### 10/09/2022
 * publish site
 * added little/slight information about current projects (meerkat and peppypedia)
-* ## peppypedia ver 0.2.6.6 (0.2.6)
+## peppypedia ver 0.2.6.7 (0.2.6)
+#### Open Beta
+#### 10/13/2022
+* merge master into testing
+* some other stuff ig
+## peppypedia ver 0.2.6.6 (0.2.6)
 #### Open Beta
 #### 10/12/2022
 * readme.md is now redirects when clicking on "About"
@@ -38,8 +43,6 @@
 * added [about.md](https://github.com/gitMiloTilo/peppypedia/blob/master/about.md)
 * added posts, pages, and home.html to [_layouts](https://github.com/gitMiloTilo/peppypedia/tree/master/_layouts)
 * https://gitmilotilo.github.io/peppypedia has been updated a few times.
-
-
 ## peppypedia ver 0.2.6.2 (0.2.6)
 #### Open Beta
 #### 10/09/2022
