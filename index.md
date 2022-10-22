@@ -1,3 +1,6 @@
+## site ver 0.0.5 (site page:/changelogs)
+#### 10/22/2022
+* fix invalid links linking to my temporary username (gitmilotilo)
 ## site ver 0.0.4
 #### 10/12/2022
 * readme.md is now redirects when someone clicks on "About" on peppypedia
@@ -7,13 +10,20 @@
 * fixed link to peppypedia redirecting to changelogs.
 ## site ver 0.0.2
 #### 10/09/2022
-* added [changelogs](https://gitmilotilo.github.io/changelogs) so you can read this... which you are doing right now? right..?
-* added links to current projects on [site](https://gitmilotilo.github.io/)
+* added [changelogs](https://windowsmeosu.github.io/changelogs) so you can read this... which you are doing right now? right..?
+* added links to current projects on [site](https://windowsmeosu.github.io/)
 * some other stuff
 ## site ver 0.0.1
 #### 10/09/2022
 * publish site
 * added little/slight information about current projects (meerkat and peppypedia)
+## peppypedia ver 0.2.6.8 (0.2.6)
+#### Open Beta
+#### 10/15-10/22/2022
+* reworked peppypedia
+* rename jekyll ver peppypedia to peppypedia-old
+* move reworked peppypedia from realMiloTilo (org) to WindowsMeosu
+* some other stuff I forget
 ## peppypedia ver 0.2.6.7 (0.2.6)
 #### Open Beta
 #### 10/13/2022
@@ -38,10 +48,10 @@
 ## peppypedia ver 0.2.6.3 (0.2.6)
 #### Open Beta
 #### 10/09/2022
-* https://gitmilotilo.github.io/ is now a valid link.
+* https://windowsmeosu.github.io/ is now a valid link.
 * pages soon to be added
-* added [about.md](https://github.com/gitMiloTilo/peppypedia/blob/master/about.md)
-* added posts, pages, and home.html to [_layouts](https://github.com/gitMiloTilo/peppypedia/tree/master/_layouts)
+* added [about.md](https://github.com/windowsmeosu/peppypedia/blob/master/about.md)
+* added posts, pages, and home.html to [_layouts](https://windowsmeosu.com/gitMiloTilo/peppypedia/tree/master/_layouts)
 * https://gitmilotilo.github.io/peppypedia has been updated a few times.
 ## peppypedia ver 0.2.6.2 (0.2.6)
 #### Open Beta
@@ -53,6 +63,18 @@
 * added changelog.md (your reading it)
 * auto-assign.yml added in .github and .github/workflows
 * added templates for issues (.github/ISSUE_TEMPLATE)
+## osu!meerkat ver 0.1.0.5 (alpha v.0.1)
+#### Alpha
+#### 10/22/2022
+* apparently I didn't broke anything in meerkatv2
+* fixed broken links
+* apparently fixed a issue in v2 that... triggered the welcome message 4 times in a row...
+## osu!meerkat ver 0.1.0.4
+#### Beta
+#### 10/14/2022
+* Apparently there was still a value still showing up as nil in v1, fixed. (oh btw meerkatv1 and meerkatv2 are the same, the only difference is that osu!meerkatv2 is planned to have Lazer support)
+* osu!meerkatv2 will be temporary held-off because I think I broke something and I am worried that it may cause random spam
+* some other stuff
 ## osu!meerkat ver 0.1.0.3
 #### Beta
 #### 10/12/2022
