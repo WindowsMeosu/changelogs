@@ -17,6 +17,10 @@
 #### 10/09/2022
 * publish site
 * added little/slight information about current projects (meerkat and peppypedia)
+## peppypedia ver 0.2.6.9-0.2.7.0 (0.2.6-2.7.0)
+#### Open Beta-Alpha
+* stuff(lazy explaination)
+#### 10/24-10/30/2022
 ## peppypedia ver 0.2.6.8 (0.2.6)
 #### Open Beta
 #### 10/15-10/22/2022
