@@ -80,7 +80,6 @@
 #### 10/25/2022 - 12/11/2022
 * bug fixes
 * I am not listing 1000 list of updates for something that isn't even available for public use at this time.
-####
 ## osu!meerkat ver 0.1.0.6 (alpha v.0.2)
 #### Alpha
 #### 10/23/2022
