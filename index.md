@@ -1,3 +1,7 @@
+## staticqq 0.0.0
+#### whydididecidetomakethisoutofxml
+#### 11/08/2022
+* played around with XSL just to get it to work, I thought XHTML would've been easy to learn but apparently XML is also complciaite4terugjrugrtjughtrjihtrjhjuipthigrnjytpkhytkphkhthpkyjkpythkptykyjkykljykjuykjykjykthjkytjkytjktykjtyhelpmeghtytjytpiwillnotspendmyentirelifefixingxmlerrorstrytjtyhytmyjyt
 ## site ver 0.0.5 (site page:/changelogs)
 #### 10/22/2022
 * fix invalid links linking to my temporary username (gitmilotilo)
@@ -17,6 +21,10 @@
 #### 10/09/2022
 * publish site
 * added little/slight information about current projects (meerkat and peppypedia)
+## peppypedia-ver 0.2.7.1
+#### Open Beta-Alpha
+#### idkwhatdate - 12/11/2022
+* I stuff updates okay? do I need to make a whole list? that's over 50 items and you expect me to make a list? if that's the case you are completely delusional.
 ## peppypedia ver 0.2.6.9-0.2.7.0 (0.2.6-2.7.0)
 #### Open Beta-Alpha
 * stuff(lazy explaination)
@@ -67,6 +75,16 @@
 * added changelog.md (your reading it)
 * auto-assign.yml added in .github and .github/workflows
 * added templates for issues (.github/ISSUE_TEMPLATE)
+## osu!meerkat ver 0.1.0.7-ver 0.2.0.0 (alpha)
+#### Alpha
+#### 10/25/2022 - 12/11/2022
+* bug fixes
+* I am not listing 1000 list of updates for something that isn't even available for public use at this time.
+####
+## osu!meerkat ver 0.1.0.6 (alpha v.0.2)
+#### Alpha
+#### 10/23/2022
+* fixed spam issue
 ## osu!meerkat ver 0.1.0.5 (alpha v.0.1)
 #### Alpha
 #### 10/22/2022
