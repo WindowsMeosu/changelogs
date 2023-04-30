@@ -2,6 +2,13 @@
 #### whydididecidetomakethisoutofxml
 #### 11/08/2022
 * played around with XSL just to get it to work, I thought XHTML would've been easy to learn but apparently XML is also complciaite4terugjrugrtjughtrjihtrjhjuipthigrnjytpkhytkphkhthpkyjkpythkptykyjkykljykjuykjykjykthjkytjkytjktykjtyhelpmeghtytjytpiwillnotspendmyentirelifefixingxmlerrorstrytjtyhytmyjyt
+## site ver 0.0.7
+### 0/4/30/2023
+* fix peppypedia link redirect
+* change rework date
+## site ver 0.0.6
+#### 03/28/2023
+* announce site rework
 ## site ver 0.0.5 (site page:/changelogs)
 #### 10/22/2022
 * fix invalid links linking to my temporary username (gitmilotilo)
@@ -21,6 +28,14 @@
 #### 10/09/2022
 * publish site
 * added little/slight information about current projects (meerkat and peppypedia)
+## peppypedia-ver 0.2.7.2 - 0.2.9.1
+#### Open Beta-Alpha
+#### idkwhatdatealso/2022 - 04/30/2023
+* stuff
+* stuff2
+* stuff3
+* stuff4
+* imnotwritingdown90itemsthatiforgottocopyandpasteforthischangelog
 ## peppypedia-ver 0.2.7.1
 #### Open Beta-Alpha
 #### idkwhatdate - 12/11/2022
